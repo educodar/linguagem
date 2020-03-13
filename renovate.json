@@ -2,7 +2,7 @@
   "extends": [
     "config:base"
   ],
-  "assignees": ["jimmyandrade"],
+  "assignees": ["guilhermedias"],
   "enabled": true,
   "labels": ["dependencies", "renovate"],
   "packageRules": [
@@ -15,6 +15,7 @@
       "automerge": false
     }
   ],
+  "reviewers": ["guilhermedias", "jimmyandrade"],
   "semanticCommits": true,
   "unicodeEmoji": true
 }
