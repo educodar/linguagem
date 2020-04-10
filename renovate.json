@@ -15,6 +15,7 @@
     }
   ],
   "reviewers": ["guilhermedias", "jimmyandrade"],
+  "schedule": "every weekend",
   "semanticCommits": true,
   "unicodeEmoji": true
 }
