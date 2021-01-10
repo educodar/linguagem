@@ -6,7 +6,7 @@ repositories {
 }
 
 dependencies {
-    antlr 'org.antlr:antlr4:4.8-1'
+    antlr 'org.antlr:antlr4:4.9.1'
     testCompile 'junit:junit:4.13'
 }
 
